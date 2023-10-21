@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://www.lemon64.com/assets/images/games/screens/on_track_racing/on_track_racing_03.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 750px;
+    height: 750px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    transition: 1s transform;
+}
+h2{
+text-align: center;
+    font-size: 3em;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+}
